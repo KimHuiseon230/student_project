@@ -1,28 +1,17 @@
-## Amusement Park Management Program
-
-## Outline
-Creating a amusement park management program using Java and MySQL
-## Purpose of Development
-In this program, Data are stored and managed by using Database.
-Please click URL below for the other version.
-| Version                     | URL                                                                    |
-|-----------------------------|------------------------------------------------------------------------|
-| Arrays                      | https://github.com/ces0028/HotelManagementProgram-Java-Project         |
-| Collention Framework (List) | https://github.com/ces0028/StudentGradeProgram-Java-Project            |
-| Input / OutputStream        | https://github.com/ces0028/BoardProgram-Java-Project                   |
-| Database (MySQL)            | https://github.com/ces0028/AmusementParkManagementProgram-Java-Project |
-
+## Summary
+Java와 MySQL을 활용한 성적 관리 프로그램 제작
 ## Development Environment
-| Category |                                 Content                                |
-|:--------:|:----------------------------------------------------------------------:|
-| OS       | Windows 10 Home                                                        |
-| Language | Java 17.0.4                                                            |
-| Editor   | Eclipse IDE 2022-06 (4.24.0)                                           |
-| DBMS     | MySQL Workbench 8.0.17                                                 |
-| Github   | https://github.com/ces0028/AmusementParkManagementProgram-Java-Project |
+|   구분   |        내용       |
+|:--------:|:-----------------:|
+| OS       | Windows 10 Home   |
+| Language | Java 17.0.4.0     |
+| Editor   | Eclipse 2022-06-R |
+| DBMS     | MySQL 8.0.CE      |
 
-## Periods of Development
-2023-10-01(Sat) ~ 2022-10-03(Mon)
+## Development Period
+2023년 03월 03일(월) ~ 2022년 03월 06일(목)
+
+## Fucntion Summary and Information
 
 ## 입력(input)
 1. 정규식을 통해 입력값을 제어함
